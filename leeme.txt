@@ -1,0 +1,2 @@
+ususario para db restore:
+usuario userdjango, que posee la contraseña userdjango. 
